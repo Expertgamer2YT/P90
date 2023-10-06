@@ -1,0 +1,14 @@
+body{
+    background-color:brown;
+    border-style: ridge;
+    border-radius: 4;
+}
+h3{
+    color:black;
+}
+#text{
+    width: 500;
+}
+#text2{
+    width: 500;
+}
